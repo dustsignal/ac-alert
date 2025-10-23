@@ -27,7 +27,7 @@ EMAIL_RECIPIENT = 'recipient_email@example.com'
 # --- Sound Alert Configuration ---
 SOUND_ALERTS = True # Enable or disable sound alerts
 SOUND_FILE_WAV = 'alert.wav'
-SOUND_FILE_MP3 = 'chime.mp3'
+# SOUND_FILE_MP3 = 'chime.mp3'
 
 # --- Telegram Alert Configuration ---
 TELEGRAM_ALERTS = False # Enable or disable Telegram alerts
