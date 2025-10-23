@@ -12,7 +12,6 @@ The script reads an `aircraft.json` file at a configurable interval, checking fo
 - **Sound Alerts:** Play a `.wav` or `.mp3` file.
 - **Telegram Alerts:** Send messages to a Telegram chat.
 - **Console Alerts:** Print messages to the console.
-- **Styled Console Output:** Colored and formatted console output using the `rich` library.
 - **Toggleable Console Output:** A master switch to turn all console output on or off.
 
 ## Installation
